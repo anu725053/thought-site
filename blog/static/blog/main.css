@@ -1,5 +1,6 @@
 body {
-    background: white url("static/images/123.png") no-repeat;
+    background: white url("images/abc.jpg") no-repeat;
+    background-size:cover;
     margin-top: 5rem;
 }
 
