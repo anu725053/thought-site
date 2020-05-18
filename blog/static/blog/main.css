@@ -29,11 +29,15 @@ ul {
 }
 
 .content-section {
-  background: #ffffff;
-  padding: 10px 20px;
-  border: 1px solid #dddddd;
-  border-radius: 3px;
-  margin-bottom: 20px;
+   background-image:url("images/abc.jpg");
+   background-size:cover;
+   color:white;
+
+
+  border: 3px solid white;
+  padding: 20px;
+  margin: 20px;
+
 }
 
 .article-title {
